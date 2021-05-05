@@ -7,7 +7,7 @@ These are only useful if you are trying to manufacture plates for people and you
 
 Just cut and paste into a Halcon-XL window and run it.
 
-Directory includes a few sample shell scripts/onliners to remove the unusual tag the MVTec has on the bottom of the plates that makes them asymmetric (I suspect these are where a label would go).  The "fixed" directory includes files which have this removed, you probably want these if you are trying to make a high-quality plate.
+Directory includes a few sample shell scripts/onliners to remove the unusual tag that MVTec has on the bottom of the plates that makes them asymmetric (I suspect these are where a label would go).  The "fixed" directory includes files which have this removed, you probably want these if you are trying to make a high-quality plate.
 
 The scripts also generate DXF files (which is undocumented) that can be converted to a gerber for use in a mask printer (for making the tiny ones).
 
