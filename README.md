@@ -12,3 +12,5 @@ Directory includes a few sample shell scripts/onliners to remove the unusual tag
 The scripts also generate DXF files (which is undocumented) that can be converted to a gerber for use in a mask printer (for making the tiny ones).
 
 Run under Halcon-XL, not the normal one, it needs the extra precision for the DXF files.
+
+If you print the pdf's make sure you don't "fit" them to the page size.  It wouldn't be a bad idea to examine the dot sizes with some kind of reticule just to verify that nothing got scaled in the printing process.
